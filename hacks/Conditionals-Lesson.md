@@ -1,6 +1,6 @@
 ---
-permalink: /studentBlogs/conditionals
-title: All About Conditionals — Beginner to Pro
+permalink: /Blog/conditionals
+title: All About Conditionals
 ---
 
 <html lang="en">
